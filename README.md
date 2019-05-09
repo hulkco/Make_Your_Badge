@@ -1,11 +1,11 @@
 # Crea tu Badge con Kicad
 ## Objetivo
 
->Crear una tarjeta de circuito impreso de forma personalizada, usando herramientas Open Source.
+>**Crear una tarjeta de circuito impreso de forma personalizada, usando herramientas Open Source.**
 
 ## Dirigido a:
 
->Cualquier persona que esté interesada en crear tarjetas de circuito impreso, no es necesario tener conocimientos alguno de electrónica o previos en diseño de tarjetas, ya que el contenido va enfocado al uso de las herramientas.
+>**Cualquier persona que esté interesada en crear tarjetas de circuito impreso, no es necesario tener conocimientos alguno de electrónica o previos en diseño de tarjetas, ya que el contenido va enfocado al uso de las herramientas.**
 
 ## Software requerido.
 
@@ -14,7 +14,7 @@
 + [InkScape](https://inkscape.org/) 
 * [SVG2Mod](https://github.com/mtl/svg2mod) (Este script usa Python2.7, tenerlo en cuenta) 
 
->Nota.- Yo usare Linux (Distribución Linux Mint), si usas otro sistema operativo, no te preocupes, todo el software que se necesita al ser open source, tiene versiones para Linux, MacOSX y Windows.
+>**Nota.- Yo usare Linux (Distribución Linux Mint), si usas otro sistema operativo, no te preocupes, todo el software que se necesita al ser open source, tiene versiones para Linux, MacOSX y Windows.**
 
 ## Contenido
 
