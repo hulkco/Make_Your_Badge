@@ -12,7 +12,7 @@
 * [Kicad](http://kicad-pcb.org/) 
 - [LibreCAD](https://librecad.org/) 
 + [InkScape](https://inkscape.org/) 
-* [SVG2Mod](https://github.com/mtl/svg2mod) (Este script usa Python2.7, tenerlo en cuenta) 
+* [SVG2Mod](https://github.com/mtl/svg2mod) (Este script usa Python 2.7, tenerlo en cuenta) 
 
 >**Nota.- Yo usare Linux (Distribución Linux Mint), si usas otro sistema operativo, no te preocupes, todo el software que se necesita al ser open source, tiene versiones para Linux, MacOSX y Windows.**
 

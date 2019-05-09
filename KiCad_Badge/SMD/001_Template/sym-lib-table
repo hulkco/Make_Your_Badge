@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Talent_Land_2019")(type "Legacy")(uri "${KIPRJMOD}/lib/Talent_Land_2019.lib")(options "")(descr ""))
+  (lib (name "001-rescue")(type "Legacy")(uri "${KIPRJMOD}/001-rescue.lib")(options "")(descr ""))
 )
