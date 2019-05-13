@@ -3866,7 +3866,7 @@ F9 EF 5F 51 57 9A 95 99 CF 94 EE AF A1 2C C9 A7 1F 8B 60 96 7D C8 C8 AD 14 E9 AB
 EndData
 $EndBitmap
 $Comp
-L Device:R_Small R3
+L 001-rescue:R_Small-Device R3
 U 1 1 5CB4F2EF
 P 7000 3550
 F 0 "R3" H 7059 3596 50  0000 L CNN
@@ -3877,7 +3877,7 @@ F 3 "~" H 7000 3550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R4
+L 001-rescue:R_Small-Device R4
 U 1 1 5CB50108
 P 7000 4550
 F 0 "R4" H 7059 4596 50  0000 L CNN
@@ -3888,7 +3888,7 @@ F 3 "~" H 7000 4550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R2
+L 001-rescue:R_Small-Device R2
 U 1 1 5CB50538
 P 4750 3650
 F 0 "R2" H 4809 3696 50  0000 L CNN
@@ -3899,7 +3899,7 @@ F 3 "~" H 4750 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R1
+L 001-rescue:R_Small-Device R1
 U 1 1 5CB50B08
 P 4750 3325
 F 0 "R1" H 4809 3371 50  0000 L CNN
@@ -3910,7 +3910,7 @@ F 3 "~" H 4750 3325 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D1
+L 001-rescue:LED-Device D1
 U 1 1 5CB5169F
 P 7000 3850
 F 0 "D1" V 7039 3733 50  0000 R CNN
@@ -3921,7 +3921,7 @@ F 3 "~" H 7000 3850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED D2
+L 001-rescue:LED-Device D2
 U 1 1 5CB5226B
 P 7000 4250
 F 0 "D2" V 7039 4133 50  0000 R CNN
@@ -3932,7 +3932,7 @@ F 3 "~" H 7000 4250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:C_Small C1
+L 001-rescue:C_Small-Device C1
 U 1 1 5CB532FA
 P 4750 4150
 F 0 "C1" H 4925 4075 50  0000 R CNN
@@ -4089,7 +4089,7 @@ F 3 "" H 7000 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Timer:LM555 U1
+L 001-rescue:LM555-Timer U1
 U 1 1 5CB43957
 P 5650 4250
 F 0 "U1" H 5375 4650 50  0000 C CNN
@@ -4102,7 +4102,7 @@ $EndComp
 Wire Wire Line
 	4750 3150 4750 3225
 $Comp
-L Device:Battery_Cell BT1
+L 001-rescue:Battery_Cell-Device BT1
 U 1 1 5CB57B92
 P 8700 3675
 F 0 "BT1" H 8818 3771 50  0000 L CNN
